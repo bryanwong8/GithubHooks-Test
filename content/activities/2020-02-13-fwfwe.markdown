@@ -1,0 +1,7 @@
+templateKey: activity-post
+name: fwfwe
+date: 2020-02-13T19:34:35.476Z
+description: fwef
+summary: fwefwf
+align: Medium
+image: /img/image.png
