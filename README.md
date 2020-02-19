@@ -1,5 +1,3 @@
-# NetlifyCMS-Test
-
 # Name
 
 Some Activity
