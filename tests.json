@@ -1,11 +1,14 @@
 {
     "1": {
         "name": "Computer Science",
-        "description": "Some description about computer science :') :')",
+        "description": "Some description about computer science",
         "topics": {
             "1": {
                 "name": "Hello"
             }
         }
+    },
+    "2": {
+        "name": "Chemistry"
     }
 }
