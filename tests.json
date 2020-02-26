@@ -9,6 +9,7 @@
         }
     },
     "2": {
-        "name": "Chemistry"
+        "name": "Chemistry",
+        "description": "Some description about chemistry"
     }
 }
