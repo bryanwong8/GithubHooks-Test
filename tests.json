@@ -19,17 +19,17 @@
     "Chemisty": {
         "github_id": 2,
         "name": "Chemistry",
-        "description": "Some description about chemistry and other things stuff",
+        "description": "Some description about chemistry and other things stuff.",
         "topics": {
             "More": {
                 "github_id": 3,
                 "name": "More",
-                "description": "Default description and other things stuff"
+                "description": "Default description and other things stuff."
             },
             "Topic 1": {
                 "github_id": 5,
                 "name": "Topic 1",
-                "description": "Default description and other things stuff"
+                "description": "Default description and other things stuff."
             }
         }
     },
