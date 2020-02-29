@@ -47,6 +47,11 @@
                 "github_id": 4,
                 "name": "Things",
                 "description": "Default description and other things."
+            },
+            "World": {
+                "github_id": 2,
+                "name": "World",
+                "description": "Default description and other things stuff"
             }
         }
     }
