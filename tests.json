@@ -21,6 +21,11 @@
         "name": "Chemistry",
         "description": "Some description about chemistry and other things stuff.",
         "topics": {
+            "Hello": {
+                "github_id": 1,
+                "name": "Hello ",
+                "description": "Default description and other things stuff"
+            },
             "More": {
                 "github_id": 3,
                 "name": "More",
