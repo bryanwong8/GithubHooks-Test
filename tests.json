@@ -1,29 +1,43 @@
 {
     "Computer Science": {
-        "id": 1,
+        "github_id": 1,
         "name": "Computer Science",
         "description": "Some description about computer science and other things",
         "topics": {
             "Hello": {
-                "id": 1,
+                "github_id": 1,
                 "name": "Hello ",
                 "description": "Default description and other things."
             },
             "World": {
-                "id": 2,
+                "github_id": 2,
                 "name": "World",
                 "description": "Default description and other things."
             }
         }
     },
     "Chemisty": {
-        "id": 2,
+        "github_id": 2,
         "name": "Chemistry",
-        "description": "Some description about chemistry and other things"
-    }, 
+        "description": "Some description about chemistry and other things",
+        "topics": {
+            "More": {
+                "github_id": 3,
+                "name": "More",
+                "description": "Default description and other things."
+            }
+        }
+    },
     "Track 1": {
-        "id": 3,
+        "github_id": 3,
         "name": "Track 1",
-        "description": "Default description and other things"
+        "description": "Default description and other things",
+        "topics": {
+            "Things": {
+                "github_id": 4,
+                "name": "Things",
+                "description": "Default description and other things."
+            }
+        }
     }
 }
