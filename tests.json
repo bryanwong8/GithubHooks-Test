@@ -7,7 +7,7 @@
             "Hello": {
                 "github_id": 1,
                 "name": "Hello ",
-                "description": "Default description and other things"
+                "description": "Default description and other things "
             },
             "World": {
                 "github_id": 2,
