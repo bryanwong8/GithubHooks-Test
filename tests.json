@@ -7,12 +7,12 @@
             "Hello": {
                 "github_id": 1,
                 "name": "Hello ",
-                "description": "Default description and other things"
+                "description": "Default description and other things stuff"
             },
             "World": {
                 "github_id": 2,
                 "name": "World",
-                "description": "Default description and other things"
+                "description": "Default description and other things stuff"
             }
         }
     },
