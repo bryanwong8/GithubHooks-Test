@@ -16,11 +16,6 @@
             }
         }
     },
-    "Chemisty": {
-        "id": 2,
-        "name": "Chemistry",
-        "description": "Some description about chemistry and other things"
-    }, 
     "Track 1": {
         "id": 3,
         "name": "Track 1",
