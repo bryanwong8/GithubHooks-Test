@@ -23,7 +23,7 @@
             "Hello": {
                 "github_id": 1,
                 "name": "Hello ",
-                "description": "Default description and other things stuf"
+                "description": "Default description and other things stuff"
             },
             "More": {
                 "github_id": 3,
@@ -47,7 +47,7 @@
                 "name": "Things",
                 "description": "Default description and other things."
             },
-            "World": {
+                        "World": {
                 "github_id": 2,
                 "name": "World",
                 "description": "Default description and other things stuff"
