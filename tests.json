@@ -6,7 +6,7 @@
         "topics": {
             "Hello": {
                 "id": 1,
-                "name": "Hello",
+                "name": "Hello ",
                 "description": "Default description and other things."
             },
             "World": {
