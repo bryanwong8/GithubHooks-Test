@@ -1,19 +1,23 @@
 {
     "Computer Science": {
-        "name": "Computer Science :)",
+        "id": 1,
+        "name": "Computer Science",
         "description": "Some description about computer science",
         "topics": {
             "Hello": {
+                "id": 1,
                 "name": "Hello",
                 "description": "Default description"
             },
             "World": {
+                "id": 2,
                 "name": "World",
                 "description": "Default description"
             }
         }
     },
     "Chemisty": {
+        "id": 2,
         "name": "Chemistry",
         "description": "Some description about chemistry"
     }
