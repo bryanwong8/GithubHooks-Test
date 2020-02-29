@@ -19,7 +19,7 @@
     "Chemisty": {
         "github_id": 2,
         "name": "Chemistry",
-        "description": "Some description about chemistry and other things",
+        "description": "Some description about chemistry and other things stuff",
         "topics": {
             "More": {
                 "github_id": 3,
