@@ -1,14 +1,19 @@
 {
-    "1": {
+    "Computer Science": {
         "name": "Computer Science",
         "description": "Some description about computer science",
         "topics": {
-            "1": {
-                "name": "Hello"
+            "Hello": {
+                "name": "Hello",
+                "description": "Default description"
+            },
+            "World": {
+                "name": "World",
+                "description": "Default description"
             }
         }
     },
-    "2": {
+    "Chemisty": {
         "name": "Chemistry",
         "description": "Some description about chemistry"
     }
