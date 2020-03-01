@@ -23,7 +23,7 @@
         "topics": [
             {
                 "github_id": 1,
-                "description": "Default description and other things stuff"
+                "name": "Hello "
             },
             {
                 "github_id": 3,
