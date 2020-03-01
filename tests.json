@@ -2,7 +2,7 @@
     "Chemisty": {
         "github_id": 2,
         "name": "Chemistry",
-        "description": "Some description about hemistry and other thingsstuff",
+        "description": "Some description abouthemistry and other thingsstuff",
         "topics": [
             {
                 "github_id": 1,
