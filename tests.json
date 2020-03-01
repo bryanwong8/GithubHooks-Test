@@ -1,21 +1,4 @@
 {
-    "Computer Science": {
-        "github_id": 1,
-        "name": "Computer Science",
-        "description": "Some description about computer science and other things",
-        "topics": [
-            {
-                "github_id": 1,
-                "name": "Hello ",
-                "description": "Default description and other things stuff"
-            },
-            {
-                "github_id": 2,
-                "name": "World",
-                "description": "Default description and other things stuff"
-            }
-        ]
-    },
     "Chemisty": {
         "github_id": 2,
         "name": "Chemistry",
@@ -23,7 +6,8 @@
         "topics": [
             {
                 "github_id": 1,
-                "name": "Hello "
+                "name": "Hello ",
+                "description": "Default description and other things stuff"
             },
             {
                 "github_id": 3,
