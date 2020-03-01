@@ -5,11 +5,6 @@
         "description": "Some description about computer science and other things",
         "topics": [
             {
-                "github_id": 1,
-                "name": "Hello ",
-                "description": "Default description and other things stuff"
-            },
-            {
                 "github_id": 2,
                 "name": "World",
                 "description": "Default description and other things stuff"
@@ -21,11 +16,6 @@
         "name": "Chemistry",
         "description": "Some description about chemistry and other things stuff",
         "topics": [
-            {
-                "github_id": 1,
-                "name": "Hello ",
-                "description": "Default description and other things stuff"
-            },
             {
                 "github_id": 3,
                 "name": "More",
