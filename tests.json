@@ -2,12 +2,12 @@
     "Chemisty": {
         "github_id": 2,
         "name": "Chemistry",
-        "description": "Some description abouthemistry and other thingsstuff",
+        "description": "Some description about chemistry and other things stuff",
         "topics": [
             {
                 "github_id": 1,
                 "name": "Hello ",
-                "description": "Defaut description and other things stuff"
+                "description": "Default description and other things stuff"
             },
             {
                 "github_id": 3,
