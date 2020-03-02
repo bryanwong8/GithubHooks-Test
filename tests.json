@@ -13,7 +13,8 @@
             {
                 "github_id": 2,
                 "name": "World",
-                "description": "Default description and other things stuff"
+                "description": "Default description and other things stuff",
+                "modules": [1, 2]
             }
         ]
     },
