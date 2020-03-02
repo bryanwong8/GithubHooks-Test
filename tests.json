@@ -7,7 +7,8 @@
             {
                 "github_id": 1,
                 "name": "Hello ",
-                "description": "Default description and other things stuff"
+                "description": "Default description and other things stuff",
+                "modules": [1]
             },
             {
                 "github_id": 2,
