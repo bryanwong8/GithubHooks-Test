@@ -49,8 +49,7 @@
             {
                 "github_id": 4,
                 "name": "Things",
-                "description": "Default description and other things.",
-                "modules": [3]
+                "description": "Default description and other things."
             }
         ]
     },
