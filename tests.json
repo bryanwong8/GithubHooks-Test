@@ -52,5 +52,17 @@
                 "description": "Default description and other things."
             }
         ]
+    },
+    "Track 2": {
+        "github_id": 4,
+        "name": "Track 2",
+        "description": "Default description and other things",
+        "topics": [
+            {
+                "github_id": 4,
+                "name": "Things",
+                "description": "Default description and other things."
+            }
+        ]
     }
 }
