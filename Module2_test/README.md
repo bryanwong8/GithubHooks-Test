@@ -12,3 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # image
 ![bandanna](images/bandanna.jpg)
+
+# image_folder
+/Module2_test/
