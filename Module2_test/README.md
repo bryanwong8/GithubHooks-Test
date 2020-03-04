@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # gems_needed
 400
 
-# imag
+# image
 ![bandanna](images/bandanna.jpg)
 
 # image_folder
