@@ -23,3 +23,27 @@ Hard
 
 # folder_location
 /Module2_test/Activity_1
+
+# cards
+
+## 1.md
+
+### name
+Card 1
+
+### order
+1
+
+### gems
+300
+
+## 2.md
+
+### name
+Card 2
+
+### order
+2
+
+### gems
+300
