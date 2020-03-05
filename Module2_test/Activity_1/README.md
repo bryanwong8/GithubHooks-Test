@@ -29,7 +29,7 @@ Hard
 ## 1.md
 
 ### name
-Card 1
+Card 1 Github
 
 ### order
 1 
@@ -40,10 +40,32 @@ Card 1
 ## 2.md
 
 ### name
-Card 2 
+Card 2 Github
 
 ### order
 2
+
+### gems
+300
+
+## 3.md
+
+### name
+Card 3 Github
+
+### order
+3
+
+### gems
+300
+
+## 4.md
+
+### name
+Card 4 Github
+
+### order
+4
 
 ### gems
 300
