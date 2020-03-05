@@ -21,11 +21,11 @@ Hard
 # image_folder
 /Module2_test/Activity_1/
 
-# folder_location
+# folder_path
 /Module2_test/Activity_1
 
 # cards
-
+ 
 ## 1.md
 
 ### name
