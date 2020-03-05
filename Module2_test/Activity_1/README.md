@@ -20,3 +20,6 @@ Hard
 
 # image_folder
 /Module2_test/Activity_1/
+
+# folder_location
+/Module2_test/Activity_1
