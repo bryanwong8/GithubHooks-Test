@@ -76,6 +76,9 @@ Bleh Card 3 Github
 ### order
 3
 
+### gems
+300
+
 ## 1-2-1
 
 ### name
