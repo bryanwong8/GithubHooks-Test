@@ -57,9 +57,6 @@ Bleh Card 2 Github
 ### gems
 300
 
-### gems
-300
-
 ## 1-2
 
 ### name
@@ -78,6 +75,9 @@ Bleh Card 3 Github
 
 ### order
 3
+
+### gems
+300
 
 ## 2-1
 
