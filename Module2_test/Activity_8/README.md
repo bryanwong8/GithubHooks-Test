@@ -89,14 +89,3 @@ Blah Card 5 Github
 
 ### gems
 300
-
-## 2-1
-
-### name
-Blah Card 4 Github
-
-### order
-1
-
-### gems
-300
