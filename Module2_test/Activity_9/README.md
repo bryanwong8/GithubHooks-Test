@@ -35,17 +35,6 @@ Blah Card 1 Github
 ### gems
 300
 
-## 1-2
-
-### name
-Blah Card 4 Github
-
-### order
-2
-
-### gems
-300
-
 ## 1-3
 
 ### name
@@ -53,17 +42,6 @@ Blah Card 4 Github
 
 ### order
 3
-
-### gems
-300
-
-## 1-3-1
-
-### name
-Blah Card 5 Github
-
-### order
-5
 
 ### gems
 300
