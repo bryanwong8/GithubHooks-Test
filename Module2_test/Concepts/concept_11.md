@@ -4,44 +4,46 @@ Concept_13
 # image_folder
 /Module2_test/Concepts
 
-# Concept_1 Step 1
+# steps
 
-## name
+## Concept_1 Step 1
+
+### name
 ```
 How to install VSCode
 ```
 
-## md_content
+### md_content
 ```
 # Hello world in js
 This is how you do **it**
 ```
 
-## code_snippet
+### code_snippet
 ```
 def pls_work():
     return True... maybe
 ```
 
-## image
+### image
 ![bandanna](images/bandanna.jpg)
 
-# Concept_1 Step 2
+## Concept_1 Step 2
 
-## name
+### name
 How to install VSCode
 
-## md_content
+### md_content
 ```
 # Hello world in js
 This is how you do **it**
 ```
 
-## code_snippet
+### code_snippet
 ```
 def pls_work():
     return True... maybe
 ```
 
-## image
+### image
 ![bandanna](images/bandanna.jpg)
