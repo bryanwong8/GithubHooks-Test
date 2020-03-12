@@ -8,13 +8,13 @@
                 "github_id": 1,
                 "name": "Hello ",
                 "description": "Default description and other things stuff",
-                "modules": [1, 2]
+                "modules": ["Module7", "Module2_test"]
             },
             {
                 "github_id": 2,
                 "name": "World",
                 "description": "Default description and other things stuff ",
-                "modules": [2]
+                "modules": ["Module7"]
             }
         ]
     },
@@ -27,7 +27,7 @@
                 "github_id": 1,
                 "name": "Hello ",
                 "description": "Default description and other things stuff ",
-                "modules": [1, 2]
+                "modules": ["Module7"]
             },
             {
                 "github_id": 3,
