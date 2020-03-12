@@ -14,10 +14,10 @@ Hard
 ![bandanna](images/bandanna.jpg)
 
 # image_folder
-/Module7/Activity_9/
+/Module7/Activity_10/
 
 # folder_path
-/Module7/Activity_9
+/Module7/Activity_10
 
 # cards
  
