@@ -44,6 +44,3 @@ This is how you do **it**
 def pls_work():
     return True... maybe
 ```
-
-### image
-![bandanna](images/bandanna.jpg)
