@@ -38,9 +38,3 @@ How to install VSCode
 # Hello world in js
 This is how you do **it**
 ```
-
-### code_snippet
-```
-def pls_work():
-    return True... maybe
-```
