@@ -2,7 +2,7 @@
 Concept_121
  
 # image_folder
-/Module2_test/Concepts
+/Module2_test/Concepts/images/
 
 # steps
 
