@@ -33,8 +33,3 @@ def pls_work():
 ### name
 How to install VSCode
 
-### md_content
-```
-# Hello world in js
-This is how you do **it**
-```
