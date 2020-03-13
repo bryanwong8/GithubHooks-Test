@@ -65,15 +65,3 @@ Offical Card 4
 
 ### gems
 400
-
-
-## 1-1
-
-### name
-Offical Hint 1
-
-### order
-1
-
-### gems
-200
