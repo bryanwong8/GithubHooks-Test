@@ -70,7 +70,7 @@ Offical Card 4
 ## 1-1
 
 ### name
-Offical Card 1-1
+Offical Card 1-1 xp xxx
 
 ### order
 1
@@ -93,7 +93,7 @@ Officail card 1-2
 ## 1-4
 
 ### name
-Officail card 1-3
+Officail card 1-3 xd xp
 
 ### order
 2
