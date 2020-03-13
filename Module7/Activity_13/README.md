@@ -64,3 +64,14 @@ Offical Card 1-5 xp xxx
 
 ### gems
 100
+
+## 3-1
+
+### name
+Offical Card 3-1 xp xxx
+
+### order
+1
+
+### gems
+100
