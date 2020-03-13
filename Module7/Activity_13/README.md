@@ -21,6 +21,17 @@ Hard
 
 # cards
  
+## 1
+
+### name
+Offical Card
+
+### order
+1 
+
+### gems
+300
+
 ## 2
 
 ### name
