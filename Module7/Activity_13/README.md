@@ -41,14 +41,14 @@ Offical Card 2
 2
 
 ### gems
-300
+200
 
 
 ## 3
 
 ### name
 Offical Card 3
- 
+
 ### order
 3
 
@@ -64,4 +64,4 @@ Offical Card 4
 4
 
 ### gems
-300
+400
