@@ -66,14 +66,3 @@ Offical Card 1-5 xp xxx
 
 ### gems
 100
-
-## 1-4
-
-### name
-Officail card 1-3 xd xp
-
-### order
-2
-
-### gems
-100
