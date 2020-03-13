@@ -78,6 +78,18 @@ Offical Card 1-1
 ### gems
 100
 
+
+## 1-2
+
+### name
+Officail card 1-2
+
+### order
+2
+
+### gems
+100
+
 ## 1-1-1
 
 ### name
