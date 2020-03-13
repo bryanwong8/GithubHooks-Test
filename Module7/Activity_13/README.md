@@ -55,17 +55,6 @@ Offical Card 3
 ### gems
 300
 
-## 4
-
-### name
-Offical Card 4
-
-### order
-4
-
-### gems
-400
-
 
 ## 1-5
 
@@ -74,18 +63,6 @@ Offical Card 1-5 xp xxx
 
 ### order
 1
-
-### gems
-100
-
-
-## 1-2
-
-### name
-Officail card 1-2
-
-### order
-2
 
 ### gems
 100
