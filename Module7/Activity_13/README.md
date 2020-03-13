@@ -38,7 +38,7 @@ Offical Card
 Offical Card 2
 
 ### order
-1 
+2
 
 ### gems
 300
