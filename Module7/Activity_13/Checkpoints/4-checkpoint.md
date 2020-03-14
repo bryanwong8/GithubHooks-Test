@@ -1,5 +1,5 @@
 # name
-Checkpoint      
+Checkpoint
 
 # checkpoint_type
 Multiple Choice
