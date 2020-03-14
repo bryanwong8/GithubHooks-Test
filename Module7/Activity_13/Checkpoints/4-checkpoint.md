@@ -10,10 +10,10 @@ Do this
 # mc_choices
 
 ## choice_1
-console.log()!!!!   
+console.log()
 
 ## choice_2
-print()!!
+print()
 
 # correct_choice
 printf()!!
