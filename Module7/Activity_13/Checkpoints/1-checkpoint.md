@@ -1,6 +1,9 @@
 # name
 Video CP  
 
+# cards_folder
+Module7/Activity_13/Cards/
+
 # checkpoint_type
 Video
 
