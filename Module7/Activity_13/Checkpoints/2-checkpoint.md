@@ -5,7 +5,7 @@ Checkpoint
 Image
 
 # instruction
-Do this 
+Do this  
 
 # mc_choices
 
