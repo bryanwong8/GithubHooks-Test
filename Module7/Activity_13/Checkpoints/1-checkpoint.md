@@ -2,7 +2,7 @@
 Video CP 
 
 # checkpoint_type
-Videos
+Video
 
 # instruction
 Do this
