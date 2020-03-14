@@ -1,5 +1,5 @@
 # name
-Image CP
+Image CP 
 
 # checkpoint_type
 Image

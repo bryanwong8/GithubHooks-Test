@@ -1,5 +1,5 @@
 # name
-Short Answer CP 
+Short Answer CP  
 
 # checkpoint_type
 Short Answer
