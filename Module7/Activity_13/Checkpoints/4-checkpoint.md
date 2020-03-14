@@ -1,6 +1,9 @@
 # name
 Checkpoint 
 
+# checkpoint_type
+Multiple Choice
+
 # instruction
 Do this
 
