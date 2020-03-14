@@ -2,7 +2,7 @@
 Image CP
 
 # checkpoint_type
-Image
+Short Answer
 
 # instruction
 Do this      

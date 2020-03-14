@@ -2,7 +2,7 @@
 Image CP
 
 # checkpoint_type
-Image
+Video
 
 # instruction
-Do this      
+Do this
