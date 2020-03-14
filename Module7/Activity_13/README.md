@@ -29,6 +29,9 @@ Offical Card 1
 ### order
 2
 
+### gems
+100
+
 ## 2
 
 ### name

@@ -1,5 +1,5 @@
 # name
-Image CP
+Video CP 
 
 # checkpoint_type
 Video
