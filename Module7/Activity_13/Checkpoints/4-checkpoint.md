@@ -5,7 +5,7 @@ Checkpoint
 Multiple Choice
 
 # instruction
-Do this   
+Do this    
 
 # mc_choices
 
