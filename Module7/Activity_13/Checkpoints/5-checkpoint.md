@@ -1,5 +1,5 @@
 # name
-Autograder Checkpoint         
+Autograder Checkpoint
 
 # cards_folder
 Module7/Activity_13/Cards/
