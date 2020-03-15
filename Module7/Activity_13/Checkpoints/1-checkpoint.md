@@ -9,3 +9,20 @@ Video
 
 # instruction
 Do this
+
+# criteria
+
+## criteria_1
+
+### content
+Does the student's board look like this:
+
+## criteria_2
+
+### content
+Does the student's ....
+
+## criteria_3
+
+### content
+Does the student's ...
