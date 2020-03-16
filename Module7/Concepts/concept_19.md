@@ -10,7 +10,7 @@ Concept_19
 
 ### name
 ```
-How to install VSCode
+How to install VSCode 
 ```
 
 ### md_content
