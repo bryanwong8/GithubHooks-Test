@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 400
 
 # image
-![bandanna](images/bandanna.jpg)
+<img src="images/dee.jpg">
 
 # image_folder
 /Topic1_Mongo/Module_DB/
