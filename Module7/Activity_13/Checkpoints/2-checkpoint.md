@@ -1,5 +1,5 @@
 # name
-Image CP    
+Image CP     
 
 # cards_folder
 Module7/Activity_13/Cards/
