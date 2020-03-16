@@ -1,5 +1,5 @@
 # name
-Short Answer CP     
+Short Answer CP      
 
 # image
 <img src="images/bandanna.jpg">
