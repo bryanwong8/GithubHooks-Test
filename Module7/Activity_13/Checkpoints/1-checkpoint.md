@@ -1,5 +1,5 @@
 # name
-Video CP       
+Video CP        
 
 # cards_folder
 Module7/Activity_13/Cards/
