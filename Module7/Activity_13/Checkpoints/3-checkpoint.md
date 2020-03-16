@@ -5,7 +5,7 @@ Short Answer CP
 <img src="images/bandanna.jpg">
 
 # image_folder
-Module7/Activity_13/checkpoints/
+Module7/Activity_13/Checkpoints/
 
 # cards_folder
 Module7/Activity_13/Cards/
