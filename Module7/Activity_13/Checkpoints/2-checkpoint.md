@@ -19,7 +19,7 @@ console.log()
 print()
 
 ## choice_3
-printf()!!
+printf()
 
 # correct_choice
-printf()!!
+printf()
