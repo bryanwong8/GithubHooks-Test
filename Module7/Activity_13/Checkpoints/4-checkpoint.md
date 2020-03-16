@@ -1,5 +1,5 @@
 # name
-MC Checkpoint       
+MC Checkpoint
 
 # cards_folder
 Module7/Activity_13/Cards/
@@ -14,6 +14,9 @@ Do this
 
 ## choice_1
 console.log()
+
+## choice_2
+print()
 
 ## choice_3
 printf()!!
