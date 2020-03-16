@@ -1,5 +1,5 @@
 # name
-Short Answer CP    
+Short Answer CP     
 
 # cards_folder
 Module7/Activity_13/Cards/
