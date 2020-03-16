@@ -20,6 +20,3 @@ print()
 
 ## choice_3
 printf()!!
-
-# correct_choice
-printf()!!
