@@ -1,5 +1,5 @@
 # name
-Video CP        
+Video CP 
 
 # cards_folder
 Module7/Activity_13/Cards/
@@ -21,3 +21,8 @@ Does the student's board look like this:
 
 ### content
 Does the student's ....
+
+## criteria_3
+
+### content
+Does the student's ...
