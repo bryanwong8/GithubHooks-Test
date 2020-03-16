@@ -15,11 +15,5 @@ Do this
 ## choice_1
 console.log()
 
-## choice_2
-print()
-
-## choice_3
-printf()
-
 # correct_choice
 printf()
