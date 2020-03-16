@@ -26,7 +26,7 @@ def pls_work():
 ```
 
 ### image
-![bandanna](images/bandanna.jpg)
+<img src="images/dee.jpg">
 
 ## Concept_1 Step 2
 
@@ -46,4 +46,4 @@ def pls_work():
 ```
 
 ### image
-![bandanna](images/bandanna.jpg)
+<img src="https://images.pexels.com/photos/1424246/pexels-photo-1424246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
