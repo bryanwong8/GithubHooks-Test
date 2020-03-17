@@ -19,9 +19,6 @@ Hard
 # image_folder
 Topic1_Mongo/Module_DB/Activity_9/
 
-# folder_path
-Topic1_Mongo/Module_DB/Activity_9
-
 # cards
  
 ## 1
