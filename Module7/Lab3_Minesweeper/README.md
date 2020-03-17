@@ -1,3 +1,6 @@
+# github_id
+26
+
 # name
 
 Minesweeper
