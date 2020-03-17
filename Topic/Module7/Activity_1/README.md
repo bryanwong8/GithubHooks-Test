@@ -14,7 +14,7 @@ Bacon ipsum dolor amet cupim landjaeger spare ribs, pork chop frankfurter pastra
 Hard
 
 # image
-<img src="images/dee.jpg">
+<img src="images/bandanna.jpg">
 
 # image_folder
 Topic/Module7/Activity_1/
