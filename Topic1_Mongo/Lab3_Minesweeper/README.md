@@ -17,7 +17,7 @@ Students will use object-oriented structure to build the game, Mine Sweeper, whi
 Hard
 
 # image_folder
-
+Topic1_Mongo/Module_DB/Lab3_Minesweeper/images/
 
 # image
 <img src="https://cdn.pixabay.com/photo/2017/04/28/21/36/mine-2269513_960_720.png">
