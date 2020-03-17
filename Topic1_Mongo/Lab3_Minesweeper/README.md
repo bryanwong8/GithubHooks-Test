@@ -22,9 +22,6 @@ Topic1_Mongo/Module_DB/Lab3_Minesweeper/images/
 # image
 <img src="https://cdn.pixabay.com/photo/2017/04/28/21/36/mine-2269513_960_720.png">
 
-# folder_path
-Topic1_Mongo/Module_DB/Lab3_Minesweeper
-
 # cards
 ## 1
 ### name
