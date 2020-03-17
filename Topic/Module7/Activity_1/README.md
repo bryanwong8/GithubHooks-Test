@@ -24,7 +24,7 @@ Topic/Module7/Activity_1
 
 # cards
  
-## 1.md
+## 1
 
 ### name
 Card 1 Github
@@ -35,7 +35,7 @@ Card 1 Github
 ### gems
 300
 
-## 2.md
+## 2
 
 ### name
 Card 2 Github
@@ -46,7 +46,7 @@ Card 2 Github
 ### gems
 300
 
-## 3.md
+## 3
 
 ### name
 Card 3 Github
@@ -57,7 +57,7 @@ Card 3 Github
 ### gems
 300
 
-## 4.md
+## 4
 
 ### name
 Card 4 Github
