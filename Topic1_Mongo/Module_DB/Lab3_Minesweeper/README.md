@@ -7,7 +7,7 @@ Minesweeper
 
 # description
 
-Utilize object oriented programming concepts to build the game, Mine Sweeper. 
+Utilize object oriented programming concepts to build the game, Mine Sweeper.  
 
 # summary
 
