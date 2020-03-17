@@ -24,10 +24,10 @@ Topic1_Mongo/Module_DB/Activity_9/
 ## 1
 
 ### name
-Blah Card 1 Github
+Testing Activity Card update
 
 ### order
 1 
 
 ### gems
-300
+100
