@@ -17,3 +17,8 @@ Do this
 ### content
 Does the student's board look like this:
 
+
+## criteria_2
+
+### content
+Does the student's board look like this:
