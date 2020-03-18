@@ -1,10 +1,9 @@
 # name
-Checkpoint 1: `Board` and `Cell`
+Checkpoint 1: `Board` and `Cell` 
 
 # cards_folder
 Topic1_Mongo/Module_DB/Lab3_Minesweeper/cards
 
-/Module3_Labs/Lab3_Minesweeper/cards
 # checkpoint_type
 Autograder
 
