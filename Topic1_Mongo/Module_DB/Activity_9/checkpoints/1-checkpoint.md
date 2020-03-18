@@ -2,7 +2,7 @@
 Video CP              
 
 # cards_folder
-Module7/Activity_13/Cards/
+Topic1_Mongo/Module_DB/Activity_9/Cards/
 
 # checkpoint_type
 Video
