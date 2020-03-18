@@ -1,8 +1,8 @@
 # concept_name
-Concept_19
+Concept_19 
  
 # image_folder
-Topic1_Mongo/ModuleDB/Concepts/
+Topic1_Mongo/ModuleDB/concepts/
 
 # steps
 
