@@ -1,5 +1,5 @@
 # concept_name
-Concept_19 
+Concept_19
  
 # image_folder
 Topic1_Mongo/ModuleDB/concepts/
@@ -26,7 +26,7 @@ def pls_work():
 ```
 
 ### image
-![bandanna](images/bandanna.jpg)
+<img src="images/dee.jpg">
 
 ## Concept_1 Step 2
 
@@ -46,4 +46,4 @@ def pls_work():
 ```
 
 ### image
-![bandanna](images/bandanna.jpg)
+<img src="images/dee.jpg">
