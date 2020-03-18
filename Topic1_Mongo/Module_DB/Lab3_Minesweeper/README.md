@@ -23,6 +23,7 @@ Topic1_Mongo/Module_DB/Lab3_Minesweeper/images/
 <img src="https://cdn.pixabay.com/photo/2017/04/28/21/36/mine-2269513_960_720.png">
 
 # cards
+
 ## 1
 ### name
 Introduction
@@ -30,6 +31,7 @@ Introduction
 1
 ### gems
 10
+
 ## 2
 ### name
 Example Output
@@ -37,6 +39,7 @@ Example Output
 2
 ### gems
 20
+
 ## 3
 ### name
 Cell Class
@@ -44,6 +47,7 @@ Cell Class
 3
 ### gems
 100
+
 ## 4
 ### name
 Board Class: Helper Functions
@@ -51,6 +55,7 @@ Board Class: Helper Functions
 4
 ### gems
 110
+
 ## 5
 ### name
 Board Class: Main Functions
@@ -58,6 +63,7 @@ Board Class: Main Functions
 5
 ### gems
 150
+
 ## 6
 ### name
 Create the board
@@ -65,6 +71,7 @@ Create the board
 6
 ### gems
 100
+
 ## 7
 ### name
 Input Validity
@@ -72,6 +79,7 @@ Input Validity
 7
 ### gems
 50
+
 ## 8
 ### name
 Process user's input
@@ -79,6 +87,7 @@ Process user's input
 8
 ### gems
 50
+
 ## 9
 ### name
 Putting together the program!
@@ -86,6 +95,7 @@ Putting together the program!
 9
 ### gems
 100
+
 ## 3-1
 ### name
 Instance Variables
@@ -93,6 +103,7 @@ Instance Variables
 1
 ### gems
 15
+
 ## 3-2
 ### name
 Setters of the Cell class
@@ -100,6 +111,7 @@ Setters of the Cell class
 2
 ### gems
 15
+
 ## 4-1
 ### name
 Simple helpers: `is_in_range` and `place_mine`
@@ -107,6 +119,7 @@ Simple helpers: `is_in_range` and `place_mine`
 1
 ### gems
 6
+
 ## 4-2
 ### name
 `get_neighbors` Explained
@@ -114,6 +127,7 @@ Simple helpers: `is_in_range` and `place_mine`
 2
 ### gems
 6
+
 ## 4-3
 ### name
 `remaining_mines` Explained
@@ -121,6 +135,7 @@ Simple helpers: `is_in_range` and `place_mine`
 3
 ### gems
 6
+
 ## 4-4
 ### name
 `count_surrounding` Explained
@@ -128,6 +143,7 @@ Simple helpers: `is_in_range` and `place_mine`
 4
 ### gems
 6
+
 ## 5-1
 ### name
 `is_solved`: How to determine winning
@@ -135,6 +151,7 @@ Simple helpers: `is_in_range` and `place_mine`
 1
 ### gems
 6
+
 ## 5-2
 ### name
 Flagging cells using `flag()`
@@ -142,6 +159,7 @@ Flagging cells using `flag()`
 2
 ### gems
 6
+
 ## 5-3
 ### name
 `mine_repr()`: What should be printed for each tile?
@@ -149,6 +167,7 @@ Flagging cells using `flag()`
 3
 ### gems
 6
+
 ## 5-4
 ### name
 show(): How to make a cell visible
@@ -156,6 +175,7 @@ show(): How to make a cell visible
 4
 ### gems
 6
+
 ## 5-5
 ### name 
 show(): Showing Tiles with no neighboring mines using Recursion
@@ -163,6 +183,7 @@ show(): Showing Tiles with no neighboring mines using Recursion
 5
 ### gems
 6
+
 ## 5-6
 ### name
 `__str__`: How to print the board
@@ -170,6 +191,7 @@ show(): Showing Tiles with no neighboring mines using Recursion
 6
 ### gems 
 6
+
 ## 6-1
 ### name
 Creating the Board: Hints
@@ -177,6 +199,7 @@ Creating the Board: Hints
 1
 ### gems
 30
+
 ## 7-1
 ### name
 Illuminating All Misinput Scenarios
@@ -184,6 +207,7 @@ Illuminating All Misinput Scenarios
 1
 ### gems
 15
+
 ## 8-1
 ### name
 `get_move` Hints
@@ -191,6 +215,7 @@ Illuminating All Misinput Scenarios
 1
 ### gems
 15
+
 ## 9-1
 ### name
 Functions to Use to implement `main()`
@@ -198,6 +223,7 @@ Functions to Use to implement `main()`
 1
 ### gems
 30
+
 ## 3-1-1
 ### name
 Constructor of the Cell class
@@ -205,6 +231,7 @@ Constructor of the Cell class
 1
 ### gems
 30
+
 ## 3-2-1
 ### name
 Setters of the Cell class Explained
@@ -212,6 +239,7 @@ Setters of the Cell class Explained
 1
 ### gems
 30
+
 ## 4-1-1
 ### name
 `is_in_range` Code
@@ -220,6 +248,7 @@ Setters of the Cell class Explained
 ### gems
 12
 ## 4-1-2
+
 ### name
 `place_mine` Code 
 ### order
@@ -227,12 +256,14 @@ Setters of the Cell class Explained
 ### gems
 12
 ## 4-2-1
+
 ### name
 `SURROUNDING` Given
 ### order
 1
 ### gems
 12
+
 ## 4-2-2
 ### name
 Using `SURROUNDING` in Code
@@ -240,6 +271,7 @@ Using `SURROUNDING` in Code
 2
 ### gems
 12
+
 ## 4-3-1
 ### name
 `remaining_mines` Code
@@ -247,6 +279,7 @@ Using `SURROUNDING` in Code
 1
 ### gems
 12
+
 ## 4-4-1
 ### name
 `count_surrounding` Code
@@ -254,6 +287,7 @@ Using `SURROUNDING` in Code
 1
 ### gems
 12
+
 ## 5-1-1
 ### name
 `is_solved` Code
@@ -261,6 +295,7 @@ Using `SURROUNDING` in Code
 1
 ### gems
 13
+
 ## 5-2-1
 ### name
 flag() Code
@@ -268,6 +303,7 @@ flag() Code
 1
 ### gems
 13
+
 ## 5-3-1
 ### name
 `mine_repr()` Code
@@ -275,6 +311,7 @@ flag() Code
 1
 ### gems
 13
+
 ## 5-4-1
 ### name
 Code for making a cell visible
@@ -282,6 +319,7 @@ Code for making a cell visible
 1
 ### gems
 13
+
 ## 5-5-1
 ### name
 Code for showing tiles with no adjacent mines
@@ -289,6 +327,7 @@ Code for showing tiles with no adjacent mines
 1
 ### gems
 13
+
 ## 5-6-1
 ### name
 Code to Print Out Remaining Mines & Column Headers
@@ -296,6 +335,7 @@ Code to Print Out Remaining Mines & Column Headers
 1
 ### gems
 13
+
 ## 5-6-2
 ### name
 Code to Print Out Row Headers and Cell Contents
@@ -303,6 +343,7 @@ Code to Print Out Row Headers and Cell Contents
 2
 ### gems
 13
+
 ## 6-1-1
 ### name
 Creating the Board: Code
@@ -310,6 +351,7 @@ Creating the Board: Code
 1
 ### gems 
 60
+
 ## 7-1-1
 ### name
 Handling all Misinput Scenarios
@@ -317,6 +359,7 @@ Handling all Misinput Scenarios
 1
 ### gems
 30
+
 ## 8-1-1
 ### name
 `get_move` Code
@@ -324,6 +367,7 @@ Handling all Misinput Scenarios
 1
 ### gems
 30
+
 ## 9-1-1
 ### name
 `main()` Implemented
