@@ -3,7 +3,7 @@
 
 # name
 
-Minesweeper
+Minesweeper    
 
 # description
 
