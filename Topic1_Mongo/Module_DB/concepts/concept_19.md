@@ -2,7 +2,7 @@
 Concept_19 
   
 # image_folder
-Topic1_Mongo/ModuleDB/concepts/
+Topic1_Mongo/Module_DB/concepts/
 
 # steps
 
