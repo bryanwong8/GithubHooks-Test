@@ -195,7 +195,7 @@ show(): Showing Tiles with no neighboring mines using Recursion
 ## 6-1
 ### name
 Creating the Board: Hints
-### order 
+### order
 1
 ### gems
 30
@@ -349,7 +349,7 @@ Code to Print Out Row Headers and Cell Contents
 Creating the Board: Code
 ### order
 1
-### gems 
+### gems
 60
 
 ## 7-1-1
