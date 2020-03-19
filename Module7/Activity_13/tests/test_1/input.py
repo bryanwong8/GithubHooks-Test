@@ -2,7 +2,7 @@ import builtins
 
 
 # this entire file is run once during okpy's setup 
-pos = 0 # line number to read currently
+pos = 0 # line number to read currently 
 test = 0 # test number we're on currently
 def input(user_in=None):
 
