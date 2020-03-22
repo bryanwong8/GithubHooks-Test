@@ -1,5 +1,5 @@
 # name
-Checkpoint 1: `Board` and `Cell`
+Checkpoint 1: `Board` and `Cell` 
 
 # cards_folder
 Topic/Module7/Activity_13/cards/
