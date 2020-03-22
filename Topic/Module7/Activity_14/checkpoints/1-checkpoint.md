@@ -1,4 +1,4 @@
-# name
+# name 
 Checkpoint 1: `Board` and `Cell`   
 
 # cards_folder
