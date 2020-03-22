@@ -64,14 +64,3 @@ Card 4 Github
 
 ### gems
 300
-
-## 1-1
-
-### name
-Card 1-1 Github
-
-### order
-1
-
-### gems
-300
