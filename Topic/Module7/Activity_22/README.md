@@ -1,5 +1,5 @@
 # github_id
-49
+50
 
 # name
 Some Activity
@@ -17,7 +17,7 @@ Hard
 <img src="images/bandanna.jpg">
 
 # image_folder
-Topic/Module7/Activity_21/
+Topic/Module7/Activity_22/
 
 # cards
  
