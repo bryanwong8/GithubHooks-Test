@@ -1,0 +1,78 @@
+# github_id
+53
+
+# name
+Some Activity
+
+# description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum          
+ 
+# summary
+Bacon ipsum dolor amet cupim landjaeger spare ribs, pork chop frankfurter pastrami chicken boudin cow filet mignon capicola kevin porchetta ball tip sausage. Frankfurter shoulder  turke y b acon, kielba sa andouille tenderloin beef. Tri-tip swine prosciutto ground round brisket leberkas tongue turducken sirloin hamburger rump strip steak  b oudin short loin. Pork chop pig venison short loin prosciutto. Strip steak pig ground round cupim hamburger landjaeg er ham pork ribeye shank t-bone. Buffalo meatloaf porchetta swine, turducken venison andouille meatball hamburger. Corned beef turkey jerky, meatloaf short loin shank venison ribeye bacon filet mignon spare ribs pig capicola buffalo.  
+    
+# difficulty
+Hard
+
+# image
+<img src="images/bandanna.jpg">
+
+# image_folder
+Topic/Module7/Activity_25/
+
+# cards
+ 
+## 1
+
+### name
+Card 1 Github
+
+### order
+1 
+
+### gems
+300
+
+## 2
+
+### name
+Card 2 Github
+
+### order
+2
+
+### gems
+300
+
+## 3
+
+### name
+Card 3 Github
+
+### order
+3
+
+### gems
+300
+
+## 4
+
+### name
+Card 4 Github
+
+### order
+4
+
+### gems
+300
+
+## 1-1
+
+### name
+Card 1-1 Github
+
+### order
+4
+
+### gems
+300
+
