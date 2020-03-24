@@ -17,7 +17,7 @@ Hard
 <img src="images/bandanna.jpg">
 
 # image_folder
-Topic/Module7/Activity_19/
+Topic/Module7/Activity_20/
 
 # cards
  
