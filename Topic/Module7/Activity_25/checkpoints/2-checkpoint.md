@@ -2,7 +2,7 @@
 Checkpoint 1: `Board` and `Cell` 
 
 # cards_folder
-Topic1/Module7/Activity_25/cards/
+Topic/Module7/Activity_25/cards/
 
 # checkpoint_type
 Autograder
