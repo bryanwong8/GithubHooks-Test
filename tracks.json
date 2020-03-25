@@ -22,5 +22,11 @@
         "name": "Track 2",
         "description": "Default description and other things ",
         "topics": [1]
+    },
+    "Track 3": {
+        "github_id": 5,
+        "name": "Track 3",
+        "description": "Default description and other things ",
+        "topics": [1]
     }
 }
