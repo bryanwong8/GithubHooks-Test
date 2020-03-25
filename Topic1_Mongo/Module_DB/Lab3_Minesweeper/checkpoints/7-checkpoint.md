@@ -2,7 +2,7 @@
 MC Checkpoint
 
 # cards_folder
-Module7/Activity_13/Cards/
+Topic1_Mongo/Module_DB/Lab3_Minesweeper/cards/
 
 # checkpoint_type
 Multiple Choice
