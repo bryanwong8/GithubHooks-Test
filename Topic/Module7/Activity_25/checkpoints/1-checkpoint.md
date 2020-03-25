@@ -1,5 +1,5 @@
 # name
-Video Checkpoint           
+Video Checkpoi
  
 # cards_folder
 Topic/Module7/Activity_25/cards/

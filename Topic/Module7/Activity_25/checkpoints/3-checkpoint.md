@@ -1,5 +1,5 @@
 # name
-MC Checkpoint
+MC Checkpoin
 
 # cards_folder
 Topic/Module7/Activity_25/cards/
