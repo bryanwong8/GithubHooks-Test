@@ -1,6 +1,6 @@
 # name
 Video CP              
-
+ 
 # cards_folder
 Topic1_Mongo/Module_DB/Lab3_Minesweeper/cards/
 
