@@ -1,5 +1,5 @@
 # name
-Video CP              
+Video Checkpoint           
  
 # cards_folder
 Topic1_Mongo/Module_DB/Lab3_Minesweeper/cards/
