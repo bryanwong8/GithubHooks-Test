@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # modules
 * 5
+* 7
+* 8
