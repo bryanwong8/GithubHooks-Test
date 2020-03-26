@@ -10,7 +10,7 @@ Topic1_Mongo/concepts/
 
 ### name
 ```
-How to install VSCode
+How to install VSCode 
 ```
 
 ### md_content
