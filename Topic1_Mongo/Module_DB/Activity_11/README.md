@@ -46,6 +46,9 @@ Testing Activity Card update 2
 ### gems
 100
 
+### concepts
+* hi-im-a-concept.md
+
 ## 1-1
 
 ### name
