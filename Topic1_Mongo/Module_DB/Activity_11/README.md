@@ -32,6 +32,9 @@ Testing Activity Card update
 ### gems
 100
 
+### concepts
+* concept_19.md
+
 ## 2
 
 ### name
