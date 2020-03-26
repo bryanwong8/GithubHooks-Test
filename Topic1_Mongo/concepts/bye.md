@@ -1,5 +1,5 @@
 # concept_name
-hi im a concept
+bye im a concept
   
 # image_folder
 Topic1_Mongo/concepts/
