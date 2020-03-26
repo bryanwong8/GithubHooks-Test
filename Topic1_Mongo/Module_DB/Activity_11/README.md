@@ -48,6 +48,7 @@ Testing Activity Card update 2
 
 ### concepts
 * hi-im-a-concept.md
+* uwu.md
 
 ## 1-1
 
