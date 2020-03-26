@@ -47,7 +47,7 @@ Testing Activity Card update 2
 100
 
 ### concepts
-* hi-im-a-concept.md
+* hi-im-a-concept copy.md
 * uwu.md
 
 ## 1-1
