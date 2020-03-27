@@ -60,3 +60,14 @@ Testing Activity Card update 1-1
 
 ### gems
 100
+
+## 1-2
+
+### name
+Testing Activity Card update 1-2
+
+### order
+2
+
+### gems
+100
