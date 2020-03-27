@@ -1,4 +1,4 @@
-First test  
+First test   
 >>> board = create_board(7, 9)
 >>> print(board)
 Mines: 9
