@@ -1,4 +1,4 @@
-First test          Change now  wqdq dl dwnqdnqwk nq
+Board Function
 >>> board = create_board(7, 9)
 >>> print(board)
 Mines: 9
