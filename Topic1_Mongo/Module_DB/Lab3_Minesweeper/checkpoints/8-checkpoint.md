@@ -10,5 +10,8 @@ Autograder
 # instruction
 Please submit your code for the `Board` and `Cell` class. `main()` functions are provided to just test those classes. 
 
+# files_to_send
+main.py
+
 # test_file_location
 Topic1_Mongo/Module_DB/Lab3_Minesweeper/tests/check1_test
