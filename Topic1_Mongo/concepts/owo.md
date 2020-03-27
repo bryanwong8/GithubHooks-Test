@@ -1,9 +1,6 @@
 # concept_name
 owo
 
-# image_folder
-Topic1_Mongo/concepts/
-
 # steps
 
 ## Concept_1 Step 1
