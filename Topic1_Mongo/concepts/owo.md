@@ -1,6 +1,6 @@
 # concept_name
-hi im a concept
-  
+owo
+
 # image_folder
 Topic1_Mongo/concepts/
 
@@ -25,9 +25,6 @@ def pls_work():
     return True... maybe
 ```
 
-### image
-<img src="images/dee.jpg">
-
 ## Concept_1 Step 2
 
 ### name
@@ -44,6 +41,3 @@ This is how you do **it**
 def pls_work():
     return True... maybe
 ```
-
-### image
-<img src="images/dee.jpg">
