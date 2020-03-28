@@ -52,13 +52,14 @@ Testing Activity Card update 2
 
 ## 3
 
-### name 
+### name
 Card 3
-
-### order 3
 
 ### gems
 100
+
+### order
+3
 
 ## 1-1
 
