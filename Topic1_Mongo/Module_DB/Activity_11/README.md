@@ -50,6 +50,16 @@ Testing Activity Card update 2
 * hi-im-a-concept copy.md
 * uwu.md
 
+## 3
+
+### name 
+Card 3
+
+### order 3
+
+### gems
+100
+
 ## 1-1
 
 ### name
