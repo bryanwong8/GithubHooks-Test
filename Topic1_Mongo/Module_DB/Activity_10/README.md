@@ -40,10 +40,10 @@ Testing Activity Card update 2
 ### order
 2
 
-## 3
-
 ### gems
 100
+
+## 3
 
 ### name
 Testing Activity Card update 3!!!!!!
@@ -51,10 +51,10 @@ Testing Activity Card update 3!!!!!!
 ### order
 3
 
-## 4
-
 ### gems
 100
+
+## 4
 
 ### name
 Testing Activity Card update 4!!!!!!
