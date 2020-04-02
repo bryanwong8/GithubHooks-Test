@@ -376,6 +376,6 @@ Handling all Misinput Scenarios
 ### gems
 60
 
-# activity_prereqs
+# activity_prerequisites
 * 1
-* 2   
+* 2    
