@@ -378,4 +378,4 @@ Handling all Misinput Scenarios
 
 # activity_prerequisites
 * 1 
-* 2         
+* 2          
