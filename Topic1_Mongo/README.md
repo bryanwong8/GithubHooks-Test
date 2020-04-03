@@ -12,8 +12,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # image_folder
 /Topic1_Mongo/
-
-# modules
-* 5
-* 7
-* 8
