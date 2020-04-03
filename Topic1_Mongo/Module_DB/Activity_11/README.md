@@ -32,9 +32,6 @@ Testing Activity Card update
 ### gems
 100
 
-### concepts
-* concept_19.md
-
 ## 2
 
 ### name
@@ -45,10 +42,6 @@ Testing Activity Card update 2
 
 ### gems
 100
-
-### concepts
-* hi-im-a-concept copy.md
-* uwu.md
 
 ## 3
 
