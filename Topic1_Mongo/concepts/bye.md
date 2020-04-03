@@ -20,7 +20,7 @@ This is how you do **it**
 ```
 
 ### code_snippet
-```
+``` 
 def pls_work():
     return True... maybe
 ```
