@@ -14,4 +14,4 @@ This module will introduce students to the basics of Data Structures and algorit
 <img src="images/dee.jpg">
 
 # image_folder
-Topic1_Mongo/Module12345/
+Topic1_Mongo/Module12345/ 
