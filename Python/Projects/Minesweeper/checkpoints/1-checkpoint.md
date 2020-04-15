@@ -1,5 +1,5 @@
 # name
-Video Checkpoint           
+Video Checkpoint            
  
 # cards_folder
 /Python/Minesweeper/cards/

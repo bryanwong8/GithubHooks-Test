@@ -1,5 +1,5 @@
 # name 
-Checkpoint 1: `Board` and `Cell`   
+Checkpoint 1: `Board` and `Cell`    
 
 # cards_folder
 /Python/Minesweeper/cards/
