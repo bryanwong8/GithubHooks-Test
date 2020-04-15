@@ -11,10 +11,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="images/bandanna.jpg">
 
 # image_folder
-/Javascripts/Modules/
+/Javascript/Modules/
 
 # activities
-* Javascripts/Activities/Hello World
+* Javascript/Activities/Hello World
 
 # projects
-* Javascripts/Projects/Minesweeper
+* Javascript/Projects/Minesweeper
