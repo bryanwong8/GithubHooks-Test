@@ -10,11 +10,11 @@ Utilize object oriented programming concepts to build the game, Mine Sweeper.
 
 Students will use object-oriented structure to build the game, Mine Sweeper, while implementing an interactive interface between user and the program. 
  
-# difficulty
+# difficulty 
 Hard
 
 # image_folder
-/Python/Projects/Minsweeper/images
+/Python/Projects/Minsweeper/
 
 # image
 <img src="https://cdn.pixabay.com/photo/2017/04/28/21/36/mine-2269513_960_720.png">
