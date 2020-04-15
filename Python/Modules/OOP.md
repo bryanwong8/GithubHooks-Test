@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 /Python/Modules/
 
 # activities
-* /Activities/Hello World
+* Python/Activities/Hello World
 
 # projects
-* /Projects/Minesweeper
+* Python/Projects/Minesweeper
