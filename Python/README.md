@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # modules
 * /Modules/OOP.md
-* /Modules/Class.md
+* /Class.md
