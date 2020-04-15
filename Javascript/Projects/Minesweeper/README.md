@@ -19,6 +19,9 @@ Javascript/Projects/Minesweeper/images
 # image
 <img src="images/dee.jpg"> 
 
+# activity_prerequisites
+* Python/Projects/Minesweeper
+
 # cards
 
 ## 1
