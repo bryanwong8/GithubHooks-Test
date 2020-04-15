@@ -14,4 +14,4 @@ Please submit your code for the `Board` and `Cell` class. `main()` functions are
 main.py
 
 # test_file_location
-/Python/Minesweeper/tests/check1_test
+/Python/Projects/Minesweeper/tests/check1_test
