@@ -15,3 +15,6 @@ Javascript/Modules/images
 
 # projects
 * Javascript/Projects/Minesweeper
+
+# activity_prerequisites
+* Python/Projects/Minesweeper
