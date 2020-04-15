@@ -13,8 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # image_folder
 /Javascript/Modules/
 
-# activities
-* Javascript/Activities/Hello World
-
 # projects
 * Javascript/Projects/Minesweeper
