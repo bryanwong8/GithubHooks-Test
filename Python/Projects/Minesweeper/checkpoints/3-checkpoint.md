@@ -2,7 +2,7 @@
 Checkpoint 1: `Board` and `Cell`    
 
 # cards_folder
-/Python/Minesweeper/Projects/cards/
+Python/Minesweeper/Projects/cards/
 
 # checkpoint_type
 Autograder
