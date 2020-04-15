@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="images/dee.jpg"> 
 
 # image_folder
-/Javascript/
+/Javascripts/
 
 # modules
-* Javascript/Modules/OOP.md
+* Javascripts/Modules/OOP.md
