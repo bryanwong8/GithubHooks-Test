@@ -1,8 +1,8 @@
-# name 
+# name  
 MC Checkpoint
 
 # cards_folder
-/Python/Minesweeper/cards/
+/Python/Projects/Minesweeper/cards/
 
 # checkpoint_type
 Multiple Choice
