@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 /Python/
 
 # modules
-* /Modules/OOP.md
-* /Class.md
+* Python/Modules/OOP.md
+* Python/Modules/Class.md
