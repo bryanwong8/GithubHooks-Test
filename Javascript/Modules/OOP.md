@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="images/bandanna.jpg">
 
 # image_folder
-/Javascript/Modules/
+Javascript/Modules/images
 
 # projects
 * Javascript/Projects/Minesweeper
