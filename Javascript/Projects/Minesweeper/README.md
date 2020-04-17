@@ -7,7 +7,6 @@ Minesweeper
 Utilize object oriented programming concepts to build the game, Mine Sweeper.
 
 # summary  
-
 Students will use object-oriented structure to build the game, Mine Sweeper, while implementing an interactive interface between user and the program.                
     
 # difficulty 
@@ -15,6 +14,7 @@ Hard
 
 # contributors
 * wongband
+* wrongband
 
 # image_folder
 Javascript/Projects/Minesweeper/images 
