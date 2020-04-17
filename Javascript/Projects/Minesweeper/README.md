@@ -15,7 +15,7 @@ Hard
 # contributors
 * wongband
 * wrongband
-
+ 
 # image_folder
 Javascript/Projects/Minesweeper/images 
  
