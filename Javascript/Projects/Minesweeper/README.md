@@ -13,6 +13,9 @@ Students will use object-oriented structure to build the game, Mine Sweeper, whi
 # difficulty 
 Hard
 
+# contributors
+* wongband
+
 # image_folder
 Javascript/Projects/Minesweeper/images 
 
