@@ -18,7 +18,7 @@ Hard
 
 # image_folder
 Javascript/Projects/Minesweeper/images 
-
+ 
 # image
 <img src="images/dee.jpg"> 
 
