@@ -14,7 +14,7 @@ Students will use object-oriented structure to build the game, Mine Sweeper, whi
 Hard
 
 # image_folder
-Python/Projects/Minsweeper/images
+Python/Projects/Minesweeper/images
 
 # image
 <img src="images/dee.jpg">
