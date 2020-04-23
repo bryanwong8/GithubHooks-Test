@@ -4,7 +4,7 @@ MC Checkpoint
 # cards_folder
 Python/Projects/Minesweeper/cards
       
-# checkpoint_type
+# checkpoint_type 
 Multiple Choice
 
 # instruction
