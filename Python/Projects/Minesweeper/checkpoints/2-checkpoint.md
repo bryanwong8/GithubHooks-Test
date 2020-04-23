@@ -1,6 +1,6 @@
 # name  
 MC Checkpoint
-
+ 
 # cards_folder
 Python/Projects/Minesweeper/cards
  
