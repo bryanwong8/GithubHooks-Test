@@ -2,7 +2,7 @@
 MC Checkpoint
 
 # cards_folder
-Python/Projects/Minesweeper/cards/
+Python/Projects/Minesweeper/cards
  
 # checkpoint_type
 Multiple Choice
