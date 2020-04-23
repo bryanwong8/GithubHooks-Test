@@ -5,7 +5,7 @@ Video Checkpoint 3
 Python/Projects/Minesweeper/cards
 
 # checkpoint_type
-Files
+File
 
 # instruction
 Do this
