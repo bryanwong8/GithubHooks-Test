@@ -3,7 +3,7 @@ Video Checkpoint 3
  
 # cards_folder
 Python/Projects/Minesweeper/cards
-
+ 
 # checkpoint_type
 File
 
